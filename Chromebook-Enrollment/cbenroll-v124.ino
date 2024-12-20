@@ -45,9 +45,6 @@ void loop()
                 wait(2);
             }
         }
-        /* else {
-            // Add Wi-Fi setup here
-        } */
         showSuccess();
     }
     bootLoop();
